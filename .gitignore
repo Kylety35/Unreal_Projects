@@ -1,0 +1,7 @@
+# 忽略以下目录下的文件
+./class1/Binaries
+./class1/Build
+./class1/DerivedDataCache
+./class1/Intermediate
+./class1/Saved
+./class1/output
